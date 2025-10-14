@@ -1,0 +1,6 @@
+@NotelyAPI_HostAddress = http://localhost:5009
+
+GET {{NotelyAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
